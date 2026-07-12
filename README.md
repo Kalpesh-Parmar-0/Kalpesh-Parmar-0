@@ -25,7 +25,7 @@ I'm an Information Technology undergraduate (8.05 CGPA) passionate about machine
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,react,redux,tailwind,vite,html,css,nodejs,express,mongodb,mysql,postgres,tensorflow,sklearn,git,github,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,react,redux,tailwind,vite,html,css,nodejs,express,mongodb,mysql,postgres,tensorflow,sklearn,git,github,postman,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -61,14 +61,6 @@ I'm an Information Technology undergraduate (8.05 CGPA) passionate about machine
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalpesh-Parmar-0&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-Parmar-0&layout=compact&theme=tokyonight)
 
 ---
 
